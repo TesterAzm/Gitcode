@@ -8,8 +8,8 @@
 * Last Updated on                    : N/A
 * Updated By                         : Dhruva Kumar S commited with two thailand girls
 * Pre-Conditions                     : 1)Valid login Admin Credentials
-* Epic Details                       : N/A hi druva 
-* User Story Details                 : N/A bye dhruva
+* Epic Details                       : N/A hi druva pq3wrl 
+* User Story Details                 : N/A bye dhruva eeoeyq
 **/
 package com.azmqalabs.edaattestautomation.testscripts.admin;
 
