@@ -6,7 +6,7 @@
 * Author                             : Kathirvelu M
 * Created Date                       : 14/06/2023
 * Last Updated on                    : N/A
-* Updated By                         : Dhruva Kumar S,Obala
+* Updated By                         : Dhruva Kumar S,
 * Pre-Conditions                     : 1)Admin Logged in with valid Credentials. 
 * Epic Details                       : N/A
 * User Story Details                 : N/A
