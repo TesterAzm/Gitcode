@@ -6,7 +6,7 @@
 * Author                             : Kathirvelu Mohan
 * Created Date                       : 
 * Last Updated on                    : N/A
-* Updated By                         : Dhruva Kumar S,Obala
+* Updated By                         : Dhruva Kumar S commited with two thailand girls
 * Pre-Conditions                     : 1)Valid login Admin Credentials
 * Epic Details                       : N/A
 * User Story Details                 : N/A
