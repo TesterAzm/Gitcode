@@ -3,7 +3,7 @@
 * TestData Sheet Name                : AdminDeleteCorporatelClient
 * Objective                          : Verify Deleted Clients checkbox
 * Version                            : 1.0
-* Author                             : Kathirvelu M
+* Author                             : Dhruva
 * Created Date                       : 14/06/2023
 * Last Updated on                    : N/
 * Updated By                         : Dhruva Kumar S,
